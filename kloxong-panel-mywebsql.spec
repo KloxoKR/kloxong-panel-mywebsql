@@ -1,12 +1,12 @@
 %define kloxocp /home/kloxo/httpd/cp
-%define productname kloxong-panel
+%define productname kloxokr-panel
 %define packagename mywebsql
 %define sourcename %{packagename}
 
 Name: %{productname}-%{packagename}
 Summary: Javascript Framework HTML 
 Version: 3.7
-Release: 1.kng%{?dist}
+Release: 1.kkr%{?dist}
 License: GPL
 URL: http://mywebsql.net/
 Group: Applications/Internet
